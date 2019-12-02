@@ -17,7 +17,7 @@ npm install
 Note: If installing with GitHub, require the Privacy.js file in your project
 
 # Usage
-    Note: All functions are async, and can be called with Promises or `await`
+Note: All functions are async, and can be called with Promises or `await`
 ## Initialization
 ```js
 const Privacy = require('privacy-api')
